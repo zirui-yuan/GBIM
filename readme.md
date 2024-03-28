@@ -26,15 +26,13 @@ k is the seed set size
 
 Please cite our paper if it is helpful to your work.
 ```latex
-@article{Yuan_Shao_Chen_2024,
-title={Graph Bayesian Optimization for Multiplex Influence Maximization},
-volume={38},
-url={https://ojs.aaai.org/index.php/AAAI/article/view/30255},
-DOI={10.1609/aaai.v38i20.30255}, number={20},
-journal={Proceedings of the AAAI Conference on Artificial Intelligence},
-author={Yuan, Zirui and Shao, Minglai and Chen, Zhiqian},
-year={2024},
-month={Mar.},
-pages={22475-22483}
+@inproceedings{yuan2024graph,
+  title={Graph Bayesian Optimization for Multiplex Influence Maximization},
+  author={Yuan, Zirui and Shao, Minglai and Chen, Zhiqian},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={20},
+  pages={22475--22483},
+  year={2024}
 }
 ```
