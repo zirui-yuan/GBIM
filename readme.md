@@ -1,5 +1,5 @@
 # GBIM
-This repository contains the source code of the AAAI-2024 paper "Graph Bayesian Optimization for Multiplex Influence Maximization"
+This repository contains the source code of the AAAI-2024 paper "[Graph Bayesian Optimization for Multiplex Influence Maximization](https://arxiv.org/abs/2403.18866)"
 
 Simply run the following command to 
 test the GBIM in Multi-IC of the lastfm dataset with k=5.   
@@ -7,7 +7,9 @@ test the GBIM in Multi-IC of the lastfm dataset with k=5.
 python main.py
 ```
 
-more data are in data.zip, you can unzip it into ./data
+more data are in data.zip, you can download it from [here](https://drive.google.com/file/d/12-vouHWJIu5SkWnKRMOSEQa1x32nSMkS/view?usp=drive_link) and unzip it into ./data
+
+
 To use these data, you need to first run
 ```
 python datasample.py -d ciao -dm LT -k 5
